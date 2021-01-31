@@ -1,0 +1,27 @@
+---
+layout: post
+title: If You Survive Your Family You Will Survive Life
+city: Buenos Aires, Argentina
+---
+
+I open my eyes and there is a knife 5 centimetres away from my throat, it is my brother trying to kill me for the third time.
+
+No! That never happened, that’s not what I am talking about. I believe your family has the various types of people you will find in your life. Some are smart, some are stubborn, some are complicated, some like you a lot, others not so much and yet they are all members of the same family, your family.
+
+![Photo of a big family](/images/2012-12-15-family.jpg)
+
+My parents divorced when I was little and married their current partners some years later, so, I have four families. There are all kinds of people in my family and I believe that if I can survive them all, if I learn to deal well with each of them I will certainly thrive in my life. Because if I can’t cope with someone who is a kin of mine how will I bear someone who isn’t even that? And I know sometimes there are people who are really hard to deal with. But first, allow me a brief digression.
+
+One of the best pieces of advice I ever got was given to me by Sir Benjamin Franklin, it saved me from a lot of trouble. He said _“Speak ill of no man, but speak all the good you know of everybody”,_ and thinking this way he got to be United States ambassador in France. I just erased half of what I had written in this text. I would use some of the people of my family as examples, wasn’t a wise decision. You gain nothing for saying bad things about people, so don’t do it.
+
+Your family life will teach you skills that you can’t imagine how much would cost you if you had to learn it somewhere else. If you really survive your family you will learn how to deal with emotional blackmailing, how to win an argument, how to show a point of view effectively, how to talk to someone who is not thinking rationally, learn to wait for the right time to ask for things, learn to apologise, to make peace, to share, to give in, learn that just because someone is talking with confidence it doesn’t mean the person is right and many other things. In your work life these are critical abilities, they can be the difference between being the boss or a subordinate.
+
+There are many skills we can learn from our family, but there is a specific one that, I have noticed, haven’t been well taught. It is the ability to admit you are wrong. The worst thing when you are arguing with someone is to notice that you are wrong in the middle of the argument, it is awful. I understand you have your pride and that you want to show superiority, but that doesn’t change the fact that you are wrong. If you go on with the argument pretending you are right you will only make things worse for everyone. For you, for example, it will be bad because you will be lying, you will be defending something you think is wrong and you will be losing your credibility because people will think you are either stupid (for not noticing you are wrong) or crazy for defending such a wrong thing.
+
+All through his dialogues Plato makes use of _elenkhós,_ the refutation method, and condemns the methods used by the sophists (the wannabe philosophers of the epoch). As Plato explains, real philosophers use dialectic to question each other and thus, through refutation, get to the real truth, while sophists had as object of their quest not the real truth, but the appearance of being right. So, acting this way, they could reach to the conclusion that anything they wanted to be right, they could “prove” it to be right, and this way they lost their credibility, because if you really wanted to know if something was right or not you wouldn’t go to a sophist, because instead of the real truth he would rather tell you his opinion — which he would try to prove true.
+
+When you don’t admit you are wrong you are acting just as a sophist, despised by Plato. You make it hard for people to treat with you, because you don’t make sense, you are not being rational. Learn to admit you are wrong, learn to apologise. People will like you better. It won’t make you look stupid, when you admit you are wrong you immediately improve. Now you are better than you were a second ago, because a second ago you thought that something wrong was right but now your thinking is better than that.
+
+Another cool thing you learn with your family is patience. I am a longsuffering man, not easily irritated, but if you try to be funny in waking me up, you are looking for trouble. Today I was sleeping and my 5 years old sister screamed in my ear “WAKE UP TO LIIIFE!”. In this moment God himself descended from his throne in heaven and took my spirit away to a far and calm place, with mild waters and a nice green grass, and I am forever thankful to him for doing that, because if it didn’t happen, now I wouldn’t have a sister anymore. And that’s how you learn to be patient. If no one try to make you mad you are not learning patience, you are just in a peaceful environment. Patience is not important when everything is right and calm, it is needed when you are right in the middle of a huge shitstorm. Remember that in an argument whoever gets angry first, loses.
+
+But that is your family. It is good sometimes, annoying sometimes, you have got to deal with it. And if you survive your family, if you learn to deal well with all of them in all kinds of situations, then you can be sure you will thrive everywhere you go.

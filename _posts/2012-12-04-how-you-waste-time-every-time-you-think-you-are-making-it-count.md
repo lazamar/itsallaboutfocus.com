@@ -3,6 +3,7 @@ layout: post
 title: How You Waste Time Every Time You Think You Are Making It Count
 city: Buenos Aires, Argentina
 ---
+
 Have you ever wasted so much time on something that in the end you didn’t want to stop, because you didn’t want to waste the time you already wasted on that? Welcome to the 21st century, an era where time is more precious than ever, but still we waste a lot of it wondering how we will make it up for the time we are wasting.
 
 My mum asked me to make the art of a banner for an event. After hours and hours of work, my mum comes and says “Take this picture out and use the other one you used in the brochures” while pointing to the main image in the banner. I couldn’t believe it, it had taken me so much time to put that photo there; I adjusted the colours, made sure it blended perfectly, put some cool stuff in it, why to take it off? “I don’t like it. And besides, it is out of focus” she said.
