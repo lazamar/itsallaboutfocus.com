@@ -11,6 +11,7 @@ James Altucher always cheers me up and makes me happy because it is not common t
 So, there was I, reading Altucher’s thoughts and thinking: “Well he is really good, what a pity he is broke”. Then it downed on me: All through his writings he emphasizes that if you want to be happy you should not base your feelings of importance only on the amount of money you have saved. Warren Buffet, one of the richest men in the world, himself once in a court, responding to charges of breaking SEC laws against Salomon Brothers, said that people who base their happiness solely on the size of their bank accounts sooner or later will have problems. All that looks really beautiful, but when you are a young adult, still in college, and your future can be anything on earth just depending on what you do right now, I assure you it is fairly frightening.
 
 
+![Image of James Altucher](/images/2012-11-15-james-altucher.jpg)
 <small>James Altucher (Not Austin Powers)</small>
 
 I don’t give in on my wishes of better financial conditions. I’ve carefully analysed both sides and I can guarantee you will prefer being  well-off, but I agree that that shouldn’t be the reason for your happiness. If you do what you like you will do it well, and when you do it well done you will soon be paid to do it. So, what I really need right now is not a bundle containing a million dollars, but rather be really good at something I love.
@@ -20,7 +21,8 @@ I can tell you that what I love is Entrepreneurship. That is my greatest passion
 You MUST do something, you can’t go through life doing nothing, accomplishing nothing. Your accomplishments give you the feeling of worth, and the pleasure to look back and say: “I did something”. When you are doing something that really adds value to your life you are progressing, moving forward. The place where you can get to depends on how much you have progressed. You will never get anywhere if you are not qualified. And if you were really qualified to be where you want to be you would already be there. If you want to get somewhere don’t stop. “Work hard and be nice to people” is a good motto. It doesn’t matter what you do, at some point you will have to work hard if you want to reach your goal, but if you get used to working hard (never forgetting to rest) you can reach your goals much faster and then achieve bigger goals…
 
 
-Entrepreneurship is never giving up on your dreams, it doesn’t matter how many times you fail.
+![Image of Pinky and The Brain planning to take over the world](/images/2012-11-15-pinky-and-the-brain.jpg)
+<small>Entrepreneurship is never giving up on your dreams, it doesn’t matter how many times you fail.</small>
 
 So, well, that’s why I started this blog. I plan to write something here every day. Of course most texts won’t be long, maybe they won’t even be. I will try to write a list of 10 things every day, or a part of a big post, so I make my brain think a little bit and practice my writing. I want to expose ideas and maybe unburden myself a little bit too.
 
