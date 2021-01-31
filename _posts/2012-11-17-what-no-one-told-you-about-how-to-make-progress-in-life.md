@@ -16,7 +16,7 @@ Wow, that’s harsh. But is the pure and simple truth, not everyone achieve thei
 
 I didn’t want to be rude, but what I was trying to say is that if you really want to be different you have got to act differently. You have to do what no one else does. And try harder than the ones who couldn’t make it to the finish line of their goals. And there is a secret to going farther than anyone else, and it is something no one tells you, at least not completely:
 
-Don’t ever lose.
+**Don’t ever lose.**
 
 Wait! Calm down. Don’t crucify me, allow me some words more and you will be gobsmacked.
 
@@ -47,7 +47,10 @@ When you do a favour to some friend, that can mean A LOT in the moment, but with
 Well, now we know that a positive balance of Political Capital is what we aim for. But what’s the problem with losing some of it once in a while? Well, what happens with our reputation and our value to people is analogous to what happens to money in the Stock Market.
 
 
-from Benjamin Graham: “The Intelligent Investor”, 2007 edition with commentaries by Jason Zweig
+![Two curves tarting at $10,000 and finishing at $25,000 after 18 years.
+The first one loses 50% in the first year and has 10% growth every year after that.
+The second one has 5% growth every year.](/images/2012-11-17-graph-cost-of-loss.png)
+<small> from Benjamin Graham: “The Intelligent Investor”, 2007 edition with commentaries by Jason Zweig</small>
 
 The graph shows two investment situations, both starting year one with 10,000 dollars and finishing 17 years later at year 18 with about 22,950 dollars. The difference is that the first one had a steady growth of 5% over the whole period, and the second one lost half its value in the first year and had a 10% growth rate in the following years.
 
