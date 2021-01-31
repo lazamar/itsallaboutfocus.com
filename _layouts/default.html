@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% include favicons.html %}
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+</head>
+<body>
+    <nav>
+        <a href="{{ site.baseurl }}/" class="site-avatar">
+            <img
+                src="{{ site.avatar }}"
+                style="
+                    height: 2em;
+                    border-radius: .5em;
+                    margin: -1em .5em -0.6em 0;"
+            />
+        </a>
+        Marcelo Lazaroni
+        <div style="float: right;">
+            <a href="{{ site.baseurl }}/">Blog</a> /
+            <a href="{{ site.baseurl }}/about">About</a>
+        </div>
+    </nav>
+    <main>
+      {{ content }}
+    </main>
+
+    <!--Footer-->
+    <footer>
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="https://www.facebook.com/marcelo.lazaroni.1">Facebook</a>
+        <a href="https://www.twitter.com/marcelolaza">Twitter</a>
+        <a href="{{ site.url }}/feed.xml">RSS</a>
+        <a href="{{ site.baseurl }}/about">About</a>
+    </footer>
+
+    {% include analytics.html %}
+</body>
+</html>

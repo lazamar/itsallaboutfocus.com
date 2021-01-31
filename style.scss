@@ -1,0 +1,64 @@
+---
+---
+
+// Variables
+
+// When changing this color it is worth checking
+// the contrast ration in Chrome's web inspector
+// to get a good match.
+$link-colour: #00645b; // #005aa2; //
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: system-ui,sans-serif;
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+nav, main, footer {
+    max-width: 750px;
+    margin: auto;
+    padding: 1em;
+}
+
+nav {
+    border-bottom: 1px solid #a2a2a2;
+}
+
+footer {
+    border-top: 1px solid #a2a2a2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+    * {
+        margin: 0 .5em;
+    }
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: $link-colour;
+}
+
+blockquote {
+    padding: 0.5em 1em;
+    background: #eee;
+    border-left: 5px solid $link-colour;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+// Utility classes
+
+.muted {
+    opacity: 0.6;
+}
+
