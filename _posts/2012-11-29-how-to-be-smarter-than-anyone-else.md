@@ -39,7 +39,6 @@ The absent-minded kid, although an excellent person, cannot be trusted with resp
 My parents have leader roles and with time I began to observe and learn. They taught me uncountable good things about leadership. In the end, if you want to be a leader you should act as one. But if you want to be a good leader, then you must see what led can’t. As leader you don’t have to be smarter than the people you deal with, that’s completely unnecessary. It’s enough if you can guide them well, and to guide them you have to see farther than they see, and that’s not intelligence. A young MBA can be much smarter than an illiterate old man, but experience gave the old man ability to see farther than the enthusiastic young guy. Now, you don’t have to learn through experience, that’s the slowest and most painful way to learn. You should learn by mentorship. Learning by experience is learning from your own mistakes, learning by mentorship is learning from someone else’s mistakes. The value of a mentor is incalculable, but a book will do too.
 
 ![Daniel San and Mr. Miyagi training](/images/2012-11-29-karate-kid.jpg)
-
 <small>Great people have great mentors</small>
 
 Learning about leadership took the jealousy out of me. There’s a book called “Leadership with purpose”, and it says that the highest level of leadership is the leader who creates leaders able to create more leaders. The leader is not jealous, he is happy when his led improve. Leaders help people getting better. they make them improve.
