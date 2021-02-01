@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Life Lessons Warren Buffett Gave Me
-city: Buenos Aires, Argentina
+city: Rio de Janeiro, Brazil
 ---
 
 Robert Kiyosaki was the first person to make me think about my financial future. I was very young and I didn’t have the habit of reading. In school they always make you read some books to try to make you interested in reading. The main flaw in their approach is that they choose totally inappropriate books. I know they are books that have a social and historical importance, but when you are 13 the last thing in your mind is history and society. If they want to make children interested they should try giving them something really interesting. Teenagers won’t get the depth of complex issues. You have a bunch of 13 year old kids in your class, give them some spaceships, monsters and semi nude woman, that will make them read it to the end. Well, back to the topic. At 15 I had never really got to the end of a single book, not even the school ones. Preparing to go on a 6 hour bus trip and browsing through some comics at a book store, I saw Robert Kiyosaki’s “Rich dad, poor dad”. I saw it and thought “why not?”. Bought the book and read it during the trip. It fascinated me at the time. Now, I don’t know what you think of Kiyosaki, and I know his books present a distorted vision of many things, but I must admit that, at 15, his book gave me an insight that changed everything for me, and I recommend it.
