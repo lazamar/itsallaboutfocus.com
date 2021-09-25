@@ -13,10 +13,4 @@ I was born in Brazil and started this blog at the ripe age of 20 in 2012 while l
 This blog has served me as a great way to keep track of how my views changed through the years.
 It must be said that I agree with very little of my older posts, in both their form and content.
 
-
-
-
-
-
-
-
+I also write about tech stuff on [https://lazamar.github.io/](https://lazamar.github.io/)
